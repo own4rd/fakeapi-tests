@@ -1,0 +1,5 @@
+{
+    "/receitas/:token": "/receitas?token=:token",
+    
+  }
+  
