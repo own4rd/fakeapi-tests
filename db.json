@@ -1,0 +1,28 @@
+{
+    "token": "token123",
+    "dataEmissao": "2024-12-17T09:01:24.400777833",
+    "paciente": "João da Silva",
+    "dataNascimentoPaciente": "1990-05-15T00:00:00",
+    "enderecoPaciente": "Rua A, 123, Centro, São Paulo, SP",
+    "medico": "Dr. Pedro Souza",
+    "crm": "CRM-SP 12345",
+    "enderecoMedico": "Avenida B, 456, São Paulo, SP",
+    "medicamentos": [
+        {
+            "nomeMedicamento": "Paracetamol",
+            "tipoReceita": "Comum",
+            "viaAdministracao": "Oral",
+            "instrucoes": "Tomar 1 comprimido a cada 8 horas.",
+            "quantidadePrescrita": "20 comprimidos",
+            "posologia": "4 comprimidos a cada x horas"
+        },
+        {
+            "nomeMedicamento": "Amoxicilina",
+            "tipoReceita": "Antibiótico",
+            "viaAdministracao": "Oral",
+            "instrucoes": "Tomar 1 cápsula a cada 12 horas.",
+            "quantidadePrescrita": "15 cápsulas",
+            "posologia": "4 comprimidos a cada x horas"
+        }
+    ]
+}
