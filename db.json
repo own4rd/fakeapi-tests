@@ -11,6 +11,7 @@
       "enderecoMedico": "Avenida B, 456, São Paulo, SP",
       "medicamentos": [
         {
+          "id": 123,
           "nomeMedicamento": "Paracetamol",
           "tipoReceita": "Comum",
           "viaAdministracao": "Oral",
@@ -19,6 +20,7 @@
           "posologia": "4 comprimidos a cada x horas"
         },
         {
+          "id": 124,
           "nomeMedicamento": "Amoxicilina",
           "tipoReceita": "Antibiótico",
           "viaAdministracao": "Oral",
@@ -41,6 +43,7 @@
       "enderecoMedico": "Avenida D, 567, Belo Horizonte, MG",
       "medicamentos": [
         {
+          "id": 125,
           "nomeMedicamento": "Dipirona",
           "tipoReceita": "Comum",
           "viaAdministracao": "Oral",
@@ -49,6 +52,7 @@
           "posologia": "2 comprimidos a cada 6 horas"
         },
         {
+          "id": 126,
           "nomeMedicamento": "Azitromicina",
           "tipoReceita": "Antibiótico",
           "viaAdministracao": "Oral",
@@ -71,6 +75,7 @@
       "enderecoMedico": "Rua F, 678, São Paulo, SP",
       "medicamentos": [
         {
+          "id": 127,
           "nomeMedicamento": "Ibuprofeno",
           "tipoReceita": "Comum",
           "viaAdministracao": "Oral",
@@ -79,6 +84,7 @@
           "posologia": "2 comprimidos a cada 6 horas"
         },
         {
+          "id": 128,
           "nomeMedicamento": "Ciprofloxacino",
           "tipoReceita": "Antibiótico",
           "viaAdministracao": "Oral",
@@ -101,6 +107,7 @@
       "enderecoMedico": "Avenida H, 789, Rio de Janeiro, RJ",
       "medicamentos": [
         {
+          "id": 129,
           "nomeMedicamento": "Paracetamol",
           "tipoReceita": "Comum",
           "viaAdministracao": "Oral",
@@ -109,6 +116,7 @@
           "posologia": "4 comprimidos a cada 6 horas"
         },
         {
+          "id": 130,
           "nomeMedicamento": "Amoxicilina",
           "tipoReceita": "Antibiótico",
           "viaAdministracao": "Oral",
@@ -131,6 +139,7 @@
       "enderecoMedico": "Rua J, 890, Rio de Janeiro, RJ",
       "medicamentos": [
         {
+          "id": 131,
           "nomeMedicamento": "Dipirona",
           "tipoReceita": "Comum",
           "viaAdministracao": "Oral",
@@ -139,6 +148,7 @@
           "posologia": "2 comprimidos a cada 6 horas"
         },
         {
+          "id": 132,
           "nomeMedicamento": "Cefalexina",
           "tipoReceita": "Antibiótico",
           "viaAdministracao": "Oral",
@@ -161,6 +171,7 @@
       "enderecoMedico": "Avenida L, 456, Rio de Janeiro, RJ",
       "medicamentos": [
         {
+          "id": 133,
           "nomeMedicamento": "Paracetamol",
           "tipoReceita": "Comum",
           "viaAdministracao": "Oral",
@@ -169,6 +180,7 @@
           "posologia": "4 comprimidos a cada x horas"
         },
         {
+          "id": 134,
           "nomeMedicamento": "Azitromicina",
           "tipoReceita": "Antibiótico",
           "viaAdministracao": "Oral",
@@ -191,6 +203,7 @@
       "enderecoMedico": "Rua N, 789, Rio de Janeiro, RJ",
       "medicamentos": [
         {
+          "id": 135,
           "nomeMedicamento": "Dipirona",
           "tipoReceita": "Comum",
           "viaAdministracao": "Oral",
@@ -199,6 +212,7 @@
           "posologia": "2 comprimidos a cada 6 horas"
         },
         {
+          "id": 136,
           "nomeMedicamento": "Amoxicilina",
           "tipoReceita": "Antibiótico",
           "viaAdministracao": "Oral",
@@ -221,6 +235,7 @@
       "enderecoMedico": "Avenida P, 678, Rio de Janeiro, RJ",
       "medicamentos": [
         {
+          "id": 137,
           "nomeMedicamento": "Ibuprofeno",
           "tipoReceita": "Comum",
           "viaAdministracao": "Oral",
@@ -229,6 +244,7 @@
           "posologia": "2 comprimidos a cada 6 horas"
         },
         {
+          "id": 138,
           "nomeMedicamento": "Ciprofloxacino",
           "tipoReceita": "Antibiótico",
           "viaAdministracao": "Oral",
@@ -251,6 +267,7 @@
       "enderecoMedico": "Avenida R, 789, São Paulo, SP",
       "medicamentos": [
         {
+          "id": 139,
           "nomeMedicamento": "Dipirona",
           "tipoReceita": "Comum",
           "viaAdministracao": "Oral",
@@ -259,6 +276,7 @@
           "posologia": "2 comprimidos a cada 6 horas"
         },
         {
+          "id": 140,
           "nomeMedicamento": "Azitromicina",
           "tipoReceita": "Antibiótico",
           "viaAdministracao": "Oral",
@@ -281,6 +299,7 @@
       "enderecoMedico": "Avenida T, 890, Rio de Janeiro, RJ",
       "medicamentos": [
         {
+          "id": 141,
           "nomeMedicamento": "Paracetamol",
           "tipoReceita": "Comum",
           "viaAdministracao": "Oral",
@@ -289,6 +308,7 @@
           "posologia": "4 comprimidos a cada x horas"
         },
         {
+          "id": 142,
           "nomeMedicamento": "Amoxicilina",
           "tipoReceita": "Antibiótico",
           "viaAdministracao": "Oral",
