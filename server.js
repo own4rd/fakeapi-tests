@@ -3,14 +3,14 @@ const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 
 
-server.get('/v1/receitas/ids', (req, res) => {
+server.get('app-cidadao/v1/receitas/ids', (req, res) => {
   const receitas = router.db.get('receitas').value();
   const ids = receitas.map(receita => receita.id);
 
   res.json({ ids });
 });
 
-server.get('/v1/receitas/consulta-prescricao/:id', (req, res) => {
+server.get('app-cidadao/v1/receitas/consulta-prescricao/:id', (req, res) => {
   const receitas = router.db.get('receitas').value();
   const receita = receitas.find(receita => receita.id === req.params.id);
 
@@ -21,7 +21,7 @@ server.get('/v1/receitas/consulta-prescricao/:id', (req, res) => {
   }
 });
 
-server.post('/v1/receitas/consulta-prescricao/:id', (req, res) => {
+server.post('app-cidadao/v1/receitas/consulta-prescricao/:id', (req, res) => {
     const { id } = req.params;
     const receitas = router.db.get('receitas').value();
     const receitaIndex = receitas.findIndex(receita => receita.id === id);
