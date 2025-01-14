@@ -38,6 +38,6 @@ server.post('/app-cidadao/v1/receitas/consulta-prescricao/:id', (req, res) => {
 
 server.use(router);
 
-server.listen(3000, () => {
+server.listen(4000, () => {
   console.log('JSON Server está rodando na porta 3000');
 });
