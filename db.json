@@ -26,7 +26,9 @@
           "quantidadePrescrita": "15 cápsulas",
           "posologia": "4 comprimidos a cada x horas"
         }
-      ]
+      ],
+      "cpf": "123.456.789-00",
+      "sexo": "Masculino"
     },
     {
       "id": "token124",
@@ -54,7 +56,9 @@
           "quantidadePrescrita": "10 cápsulas",
           "posologia": "4 comprimidos a cada x horas"
         }
-      ]
+      ],
+      "cpf": "987.654.321-00",
+      "sexo": "Feminino"
     },
     {
       "id": "token125",
@@ -82,7 +86,9 @@
           "quantidadePrescrita": "20 comprimidos",
           "posologia": "1 comprimido a cada 8 horas"
         }
-      ]
+      ],
+      "cpf": "234.567.890-11",
+      "sexo": "Masculino"
     },
     {
       "id": "token126",
@@ -110,7 +116,9 @@
           "quantidadePrescrita": "20 cápsulas",
           "posologia": "1 cápsula a cada 12 horas"
         }
-      ]
+      ],
+      "cpf": "345.678.901-22",
+      "sexo": "Feminino"
     },
     {
       "id": "token127",
@@ -138,7 +146,9 @@
           "quantidadePrescrita": "20 cápsulas",
           "posologia": "1 cápsula a cada 8 horas"
         }
-      ]
+      ],
+      "cpf": "456.789.012-33",
+      "sexo": "Feminino"
     },
     {
       "id": "token128",
@@ -166,7 +176,9 @@
           "quantidadePrescrita": "15 cápsulas",
           "posologia": "1 cápsula a cada 12 horas"
         }
-      ]
+      ],
+      "cpf": "567.890.123-44",
+      "sexo": "Masculino"
     },
     {
       "id": "token129",
@@ -194,7 +206,9 @@
           "quantidadePrescrita": "20 cápsulas",
           "posologia": "1 cápsula a cada 8 horas"
         }
-      ]
+      ],
+      "cpf": "678.901.234-55",
+      "sexo": "Feminino"
     },
     {
       "id": "token130",
@@ -222,7 +236,9 @@
           "quantidadePrescrita": "20 comprimidos",
           "posologia": "1 comprimido a cada 8 horas"
         }
-      ]
+      ],
+      "cpf": "789.012.345-66",
+      "sexo": "Masculino"
     },
     {
       "id": "token131",
@@ -250,7 +266,9 @@
           "quantidadePrescrita": "20 cápsulas",
           "posologia": "1 cápsula a cada 8 horas"
         }
-      ]
+      ],
+      "cpf": "890.123.456-77",
+      "sexo": "Feminino"
     },
     {
       "id": "token132",
@@ -278,7 +296,9 @@
           "quantidadePrescrita": "15 cápsulas",
           "posologia": "1 cápsula a cada 12 horas"
         }
-      ]
+      ],
+      "cpf": "901.234.567-88",
+      "sexo": "Masculino"
     }
   ],
   "ids": [
